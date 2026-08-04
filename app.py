@@ -1,11 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-
-# -----------------------------
-# Conversion data and functions
-# -----------------------------
-
 LINEAR_UNITS = {
     "Length": {
         "Meter": 1.0,
