@@ -65,3 +65,83 @@
 
 ### 📐 Area
 - Square Meter
+- Square Kilometer
+- Square Foot
+- Acre
+- Hectare
+
+---
+
+## # Project Structure
+
+```text
+unit-converter/
+├── app.py
+├── screenshots/
+│   └── unit-converter.png
+├── README.md
+```
+
+---
+
+## # Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/dineshsinghdhami/unit-converter.git
+cd unit-converter
+```
+
+Run the application:
+
+```bash
+python app.py
+```
+
+> **Note:** Tkinter comes pre-installed with most Python installations, so no additional packages are required.
+
+---
+
+## # Contributing
+
+Contributions are welcome and appreciated!
+
+If you'd like to improve this project, you are welcome to:
+
+- Fork the repository
+- Create a new feature branch
+- Improve the user interface
+- Add more conversion categories
+- Optimize the application
+- Submit a Pull Request
+- Report bugs or suggest new features through GitHub Issues
+
+Please write clean, well-documented code and ensure your changes do not break existing functionality.
+
+---
+
+## # License
+
+This project is available for everyone to use, modify, and learn from.
+
+Feel free to:
+
+- Use it for personal projects
+- Use it for educational purposes
+- Fork the repository
+- Modify the source code
+- Share your improvements
+- Contribute through Pull Requests
+
+If you use this project, giving credit to the original repository is appreciated but not required.
+
+---
+
+## # Author
+
+**Dinesh Singh Dhami**
+
+- Website: https://dineshsinghdhami.com.np
+- GitHub: https://github.com/dineshsinghdhami
+- Email: dineshdhamidn@gmail.com
